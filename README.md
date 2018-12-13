@@ -1,0 +1,2 @@
+# frameworks_av_include_media_stagefright_dpframework
+patched frameworks
